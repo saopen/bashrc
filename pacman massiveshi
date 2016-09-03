@@ -1,0 +1,2 @@
+sudo pacman -S mpv vlc livestreamer steam pavucontrol termite compton feh 
+yaourt i3-gaps source-code-pro playerctl 
