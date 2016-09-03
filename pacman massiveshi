@@ -1,2 +1,4 @@
 sudo pacman -S mpv vlc livestreamer steam pavucontrol termite vim compton feh firefox glances archey3 
 yaourt i3-gaps source-code-pro playerctl discord-canary 
+rm ~/.local/share/Steam/ubuntu12_32/steam-runtime/i386/usr/lib/i386-linux-gnu/libstdc++.so.6 &&
+> find ~/.steam/root/ -name "libgpg-error.so*" -print -delete
