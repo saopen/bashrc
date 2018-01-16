@@ -1,5 +1,6 @@
 #!/bin/bash
 #shell script for å sjekke printere
+#lag en alias i /home/brukernavn/.bashrc > alias p='sh ~/printer.sh'
 
 echo Hvilken skriver? tjuverinr
 read PRINT
